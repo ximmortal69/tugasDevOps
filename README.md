@@ -1,0 +1,2 @@
+# tugasDevOps
+just an assignment
